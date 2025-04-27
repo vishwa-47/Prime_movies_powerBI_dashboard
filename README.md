@@ -1,2 +1,7 @@
 # Prime_movies_powerBI_dashboard
-In this  repository you can find a image of the dashboard which I have created using power bi for analysis.
+
+## dataset used for this analysis 
+
+- <a href="https://github.com/vishwa-47/Prime_movies_powerBI_dashboard/blob/main/amazon_prime_titles%20(1).csv">Dataset</a>
+
+- 

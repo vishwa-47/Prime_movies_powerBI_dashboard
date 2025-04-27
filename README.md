@@ -8,3 +8,8 @@
 
 - <a href = "https://github.com/vishwa-47/Prime_movies_powerBI_dashboard/blob/main/Prime.png"> Image</a>
 - <a href = "https://github.com/vishwa-47/Prime_movies_powerBI_dashboard/blob/main/prime2.png"> Image</a>
+
+# Dashboard image
+
+![Prime](https://github.com/user-attachments/assets/668042c3-fbfa-43ba-af72-3e720d1fb1e5)
+
